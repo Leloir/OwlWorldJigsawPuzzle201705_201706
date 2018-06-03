@@ -1,0 +1,566 @@
+#container1,#container2{
+    margin-left: auto;
+}
+
+/*
+logo and name
+*/
+.name {
+    height: 80px;
+    width: 180px;
+    padding: 5px;
+}
+
+.name img{
+    height: 50px;
+    width: auto;
+}
+
+.music{
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    left: 1140px;
+    top:5px;
+    
+}
+
+.music img{
+    width: 50px;
+    position: absolute;
+}
+
+
+audio {
+    position: absolute;
+    top: 28px;
+    left: 70px;
+    width: 95px;
+}
+
+/*
+nav search login
+*/
+
+.header{
+    position: absolute;
+    height: 100px; 
+    width: 100%;
+    top: 100px;
+    
+}
+
+.navbar-form{
+    position: absolute;
+    top: -4px;
+    left: 500px;
+}
+
+form button{
+    position: absolute;
+    top: 0px;
+    left: 220px;
+}
+
+
+
+
+
+/*
+containers
+*/
+
+#container1, #container2{
+    height: 1850px;
+    width: 1338px;
+    position: absolute;
+    top: 160px;
+}
+
+.z-out{
+    z-index: 1;
+}
+
+
+
+
+/*
+prologue
+*/
+h1 {
+    width: 160px;
+    position: absolute;
+    left: 570px;
+}
+
+.hp {
+    position: absolute;
+    font-size: 16px;
+    left: 490px;
+    top:100px;
+}
+
+
+/*
+background
+*/
+
+.compass {
+    width: 200px;
+    position: absolute;
+    left: 1130px;
+    
+}
+
+.catcher {
+    width: 80px;
+    position: absolute;
+    top: 630px;
+    left: 20px;
+    
+}
+
+.eggs {
+    width: 250px;
+    position: absolute;
+    top: 1550px;
+    left: 1050px;
+    
+}
+
+
+/*
+map
+*/
+.map {
+    width: 100%;
+    height: 450px;
+    position: absolute;
+    top: 160px;
+    background-color: 
+}
+
+img.world{
+    position: absolute;
+    top:-10px;
+    
+    width: 1338px;
+    z-index: -1;
+}
+
+.map p{
+    cursor:pointer;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+.map .location{
+    width: 15px;
+    cursor:pointer;
+}
+
+
+.chuju {
+    position:absolute;
+    top:300px;
+    left: 1170px;
+    color: #d89223;
+}
+
+.biye {
+    position: absolute;
+    top:175px;
+    left: 490px;
+    color: #07075d;
+}
+
+.ding {
+    position: absolute;
+    top:301px;
+    left: 598px;
+    color: #4c689b;
+}
+
+.fengsheng {
+    position: absolute;
+    top:180px;
+    left: 825px;
+    color: #be572a;
+}
+
+.gezi {
+    position: absolute;
+    top:150px;
+    left: 1122px;
+    color: #def5be;
+}
+
+.huatan {
+    position:absolute;
+    top:200px;
+    left: 660px;
+    color: #acf4e6;
+}
+
+.huatian {
+    position: absolute;
+    top:220px;
+    left: 335px;
+    color: #bc892a;
+}
+
+.hubian {
+    position: absolute;
+    top: 36px;
+    left: 570px;
+    color: #816b23;
+}
+
+.jiaoshi {
+    position: absolute;
+    top: 50px;
+    left: 1160px;
+    color: #337e0c;
+}
+
+.jinianqiang {
+    position: absolute;
+    top: 170px;
+    left: 1211px;
+    color: #98344b;
+}
+
+.jiu {
+    position: absolute;
+    top: 170px;
+    left: 879px;
+    color: #2ae647;
+}
+
+.kongzi {
+    position: absolute;
+    top: 95px;
+    left: 690px;
+    color: #3428c3;
+}
+
+.lang {
+    position: absolute;
+    top: 160px;
+    left: 920px;
+    color: #12c9c2;
+}
+
+.lanqiu {
+    position: absolute;
+    top: 302px;
+    left: 230px
+}
+
+.luoxu {
+    position: absolute;
+    top: 10px;
+    left: 1290px;
+    color: #dd57be;
+}
+
+.yezi {
+    position: absolute;
+    top: 340px;
+    left: 855px;
+    color: #c9b338;
+}
+
+.pa {
+    position: absolute;
+    top: 35px;
+    left: 1090px;
+    color: #1c86e3;
+}
+
+.qingtao {
+    position: absolute;
+    top: 264px;
+    left: 752px;
+    color: #065f2b;
+}
+
+.shitan {
+    position: absolute;
+    top:90px;
+    left: 360px;
+    color: #232412;
+    z-index: 1;
+}
+
+.shu {
+    position: absolute;
+    top: 20px;
+    left: 700px;
+    color: deeppink
+}
+
+.taijie {
+    position: absolute;
+    top: 290px;
+    left: 770px;
+    color: #efa280;
+}
+
+.teng {
+    position: absolute;
+    top: 205px;
+    left: 950px;
+    color: #577e4e;
+}
+
+.tingzi {
+    position: absolute;
+    top: 330px;
+    left: 1100px;
+    color: #610a8e;
+}
+
+.tiyu {
+    position: absolute;
+    top:240px;
+    left:110px;
+    color: #4eb48d;
+}
+
+.wuming {
+    position: absolute;
+    top: 230px;
+    left: 867px;
+    color: #80066d;
+}
+
+.xiaoge {
+    position: absolute;
+    top: 90px;
+    left: 535px;
+    color: #dda659;
+}
+
+.xiaohai{
+    position: absolute;
+    top: 175px;
+    left: 86px;
+    color: #761414;
+}
+
+.xiaoshu {
+    position: absolute;
+    top: 130px;
+    left: 780px;
+    color: #efbc14;
+}
+
+.xinglin {
+    position: absolute;
+    top: 220px;
+    left: 720px;
+    color: #9b750e;
+}
+
+.xiuqiu {
+    position: absolute;
+    top: 210px;
+    left: 980px;
+    color: #be572a;
+}
+
+.ya {
+    position: absolute;
+    top: 230px;
+    left: 1140px;
+    color: coral;
+}
+
+.yehua {
+    position: absolute;
+    top: 220px;
+    left: 1040px;
+    color: #537ae3;
+}
+
+.yizi {
+    position: absolute;
+    top: 100px;
+    left: 959px;
+    color: #e03333;
+}
+
+.men {
+    position: absolute;
+    top: 300px;
+    left: 290px;
+    color: #f0ec81;
+}
+
+.zuo {
+    position: absolute;
+    top: 170px;
+    left: 1070px;
+    color: #a546a8;
+   
+}
+
+
+/*
+player
+*/
+.player{
+    width: 525px;
+    position: absolute;
+    top: 680px;
+    left: 240px;
+}
+
+.words {
+    position: absolute;
+    top: 700px;
+    left: 880px;
+    font-size: 14px;
+    text-align: center;
+    
+}
+
+/*
+category
+*/
+.category {
+    width: 100%;
+    height: 620px;
+    position: absolute;
+    top: 1080px;
+    display: flex;
+}
+
+.n,.s,.sr,.ssr {
+   width: 300px;    
+   margin-left:20px;  
+}
+
+.category ul{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.category li{ 
+    height: 38px;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: -20px;
+    padding-top: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.category a{
+    color: black;
+}
+.category a:hover{
+   text-decoration: none;
+}
+
+.n h3{
+    color: #978f9d;
+}
+
+.s h3{
+    color: #b5c34e;
+}
+
+.sr h3{
+    color: #dea930;
+}
+
+.ssr h3{
+    color: #d04508;
+}
+
+.boss {
+    position: absolute;
+    width: 700px;
+    top: 550px;
+    left: 40px;
+    display: flex;
+}
+
+.boss ul {
+    position: absolute;
+    left: 150px;
+    display: flex;
+}
+.boss li {
+    
+    width: 400px;
+    margin-right: 50px;
+}
+
+.boss h3{
+    color: #1a181a;
+}
+/*
+Container2
+*/
+.thumbnail img{
+    cursor: pointer;
+}
+
+
+
+/*
+foot
+*/
+foot {
+    position: absolute;
+    top: 1920px;
+    width: 100%;
+    height: 100px;
+    border-radius: 0px;
+    display: flex;
+}
+
+.list {
+    display:flex;
+    position: relative;
+    left: 10px;
+}
+
+.l1{
+    position: absolute;
+    left: 20px;
+    width: 200px; 
+}
+.l2 {
+    position: absolute;
+    left: 250px;
+    width: 300px;
+}
+
+.bmusic {
+    width: 500px;
+    position: absolute;
+    left: 750px;
+    top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

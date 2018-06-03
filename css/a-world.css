@@ -1,0 +1,578 @@
+/*
+logo and name
+*/
+.name {
+    height: 80px;
+    width: 180px;
+    padding: 5px;
+}
+
+.name img{
+    height: 50px;
+    width: auto;
+}
+
+.music{
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    left: 1140px;
+    top:5px;
+    
+}
+
+.music img{
+    width: 50px;
+    position: absolute;
+}
+
+
+audio {
+    position: absolute;
+    top: 28px;
+    left: 70px;
+    width: 95px;
+}
+
+/*
+nav search login
+*/
+
+.header{
+    position: absolute;
+    height: 100px; 
+    width: 100%;
+    top: 100px;
+    
+}
+
+.navbar-form{
+    position: absolute;
+    top: -4px;
+    left: 500px;
+}
+
+form button{
+    position: absolute;
+    top: 0px;
+    left: 220px;
+}
+
+
+
+
+
+/*
+containers
+*/
+
+#container1, #container2{
+    height: 2150px;
+    width: 1338px;
+    position: absolute;
+    top: 160px;
+}
+
+.z-out{
+    z-index: 1;
+}
+
+
+
+
+/*
+prologue
+*/
+h1 {
+    width: 160px;
+    position: absolute;
+    left: 570px;
+}
+
+.hp {
+    position: absolute;
+    font-size: 16px;
+    left: 490px;
+    top:100px;
+}
+
+.prologue{
+   position: absolute;
+   top: 25px;
+   left: 15px;
+   font-size: 15px; 
+   width: 330px;
+   height: 90px;
+   padding-top: 10px;
+   padding-left: 5px;
+   background-color: #3a9ca0;
+   border-radius: 7px;
+   color: aliceblue;
+}
+
+.owl-books {
+    width: 60px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    cursor: pointer;
+}
+
+#con1, #con2{
+   border: 1px solid #ddd;
+   width: 30px;
+   height: 30px;
+}
+
+#con1{
+   position: absolute;
+   top: 50px;
+   left: 5px;
+   background-color: #3a9ca0;
+}
+
+#con2{
+   position: absolute;
+   top: 50px;
+   left: 60px;
+   background-color: #3a9ca0;
+}
+
+
+
+
+/*
+background
+*/
+
+.compass {
+    width: 200px;
+    position: absolute;
+    left: 1130px;
+    top: 120px;
+}
+
+.catcher {
+    width: 80px;
+    position: absolute;
+    top: 830px;
+    left: 20px;
+    
+}
+
+.eggs {
+    width: 250px;
+    position: absolute;
+    top: 1770px;
+    left: 1050px;
+    
+}
+
+
+/*
+map
+*/
+.map {
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 160px;
+    background-color: 
+}
+
+img.world{
+    position: absolute;
+    top:-110px;
+    left: 40px;
+    width: 1200px;
+    z-index: -1;
+}
+
+.map p{
+    cursor:pointer;
+    font-size: 15px;
+}
+
+
+.map .location{
+    width: 15px;
+    cursor:pointer;
+}
+
+
+.leaves {
+    position:absolute;
+    top:280px;
+    left: 310px;
+    color: #d89223;
+}
+
+.twigs{
+    position: absolute;
+    top:240px;
+    left: 820px;
+    color: #a86ec7;
+}
+
+.thunder{
+    position: absolute;
+    top:230px;
+    left: 220px;
+    color: #6381b9;
+}
+
+.sunshinecity{
+    position: absolute;
+    top:480px;
+    left: 1075px;
+    color: #be572a;
+}
+
+.forest{
+    position: absolute;
+    top:150px;
+    left: 652px;
+    color: #577e4e;
+}
+
+.mushroom{
+    position:absolute;
+    top:420px;
+    left: 970px;
+    color: #7ea097;
+}
+
+.cloud{
+    position: absolute;
+    top:280px;
+    left: 580px;
+    color: #2abca5;
+}
+
+.snowfox{
+    position: absolute;
+    top: 50px;
+    left: 470px;
+    color: #7e8380;
+}
+
+.arrangement {
+    position: absolute;
+    top: 410px;
+    left: 410px;
+    color: #337e0c;
+}
+
+.chestnut {
+    position: absolute;
+    top: 280px;
+    left: 710px;
+    color: #409834;
+}
+
+.chocolates {
+    position: absolute;
+    top: 320px;
+    left: 990px;
+    color: #20baa3;
+}
+
+.grapeleaves {
+    position: absolute;
+    top: 260px;
+    left: 890px;
+    color: #c38028;
+}
+
+.icecream {
+    position: absolute;
+    top: 540px;
+    left: 400px;
+    color: #12c9c2;
+}
+
+.memory {
+    position: absolute;
+    top: 400px;
+    left: 700px
+}
+
+.raspberries {
+    position: absolute;
+    top: 300px;
+    left: 220px;
+    color: #dd57be;
+}
+
+.violin {
+    position: absolute;
+    top: 120px;
+    left: 900px;
+    color: #c9b338;
+}
+
+.woods {
+    position: absolute;
+    top: 305px;
+    left: 770px;
+    color: #1c86e3;
+}
+
+.hamburg {
+    position: absolute;
+    top: 230px;
+    left: 620px;
+    color: #3a89ce;
+}
+
+.pumpkins {
+    position: absolute;
+    top:480px;
+    left: 430px;
+    color: #b2b729;
+    z-index: 1;
+}
+
+.valentine {
+    position: absolute;
+    top: 150px;
+    left: 70px;
+    color: deeppink
+}
+
+.watch {
+    position: absolute;
+    top: 170px;
+    left: 990px;
+    color: #efa280;
+}
+
+.winter {
+    position: absolute;
+    top: 55px;
+    left: 350px;
+    color: #aa5f5f;
+}
+
+.cat {
+    position: absolute;
+    top: 490px;
+    left: 1000px;
+    color: #610a8e;
+}
+
+.firemen {
+    position: absolute;
+    top:230px;
+    left: 360px;
+    color: #4eb48d;
+}
+
+.girl {
+    position: absolute;
+    top: 450px;
+    left: 710px;
+    color: #80066d;
+}
+
+.kiss {
+    position: absolute;
+    top: 380px;
+    left: 630px;
+    color: #ceaf84;
+}
+
+.monks {
+    position: absolute;
+    top: 345px;
+    left: 910px;
+    color: #761414;
+}
+
+.shadow {
+    position: absolute;
+    top: 160px;
+    left: 780px;
+    color: #efbc14;
+}
+
+.splashing {
+    position: absolute;
+    top: 370px;
+    left: 940px;
+    color: #cfe04f;
+}
+
+.Tianjin {
+    position: absolute;
+    top: 280px;
+    left: 980px;
+}
+
+.asparagus {
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    color: coral;
+}
+
+.Indianboy {
+    position: absolute;
+    top: 320px;
+    left: 840px;
+}
+
+.redworld {
+    position: absolute;
+    top: 260px;
+    left: 639px;
+    color: #e03333;
+}
+
+.tea {
+    position: absolute;
+    top: 160px;
+    left: 160px;
+    color: #f0ec81;
+}
+
+.sunset {
+    position: absolute;
+    top: 365px;
+    left: 300px;
+    color: #816b23;
+}
+
+
+/*
+player
+*/
+.player{
+    width: 525px;
+    position: absolute;
+    top: 880px;
+    left: 240px;
+}
+
+.words {
+    position: absolute;
+    top: 900px;
+    left: 880px;
+    font-size: 14px;
+    text-align: center;
+    
+}
+
+/*
+category
+*/
+.category {
+    width: 100%;
+    height: 620px;
+    position: absolute;
+    top: 1310px;
+    display: flex;
+}
+
+.n,.s,.sr,.ssr {
+   width: 300px;    
+   margin-left:20px;  
+}
+
+.category ul{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.category li{ 
+    height: 38px;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: -20px;
+    padding-top: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.category a{
+    color: black;
+}
+.category a:hover{
+   text-decoration: none;
+}
+
+.n h3{
+    color: #978f9d;
+}
+
+.s h3{
+    color: #b5c34e;
+}
+
+.sr h3{
+    color: #dea930;
+}
+
+.ssr h3{
+    color: #d04508;
+}
+
+.boss {
+    position: absolute;
+    width: 700px;
+    top: 550px;
+    left: 40px;
+    display: flex;
+}
+
+.boss ul {
+    position: absolute;
+    left: 150px;
+    display: flex;
+}
+.boss li {
+    
+    width: 400px;
+    margin-right: 50px;
+}
+
+.boss h3{
+    color: #1a181a;
+}
+/*
+Container2
+*/
+.thumbnail img{
+    cursor: pointer;
+}
+
+
+
+/*
+foot
+*/
+foot {
+    position: absolute;
+    top: 2210px;
+    width: 100%;
+    height: 100px;
+    padding: 10px 20px;
+    border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

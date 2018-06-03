@@ -1,0 +1,224 @@
+.logo {
+    position: absolute;
+    height: 80px;
+    width: 160px;
+    left: 895px;
+    top: 120px;
+}
+.logo img{
+    height: 50px;
+    right: 0px;
+}
+
+.world {
+    display: none;
+}
+
+/*
+  container1
+*/
+
+.poster0{
+    position: absolute;
+    top: 100px;
+    left: 140px;
+    width: 660px;
+    
+}
+
+.poster0 .item:last-child{
+    width: 660px;
+    height: 448px;
+    padding-top: 18px;
+    background-color: #212121;
+        
+}
+
+.source0{
+    position: absolute;
+    top:80px;
+    left:105px;
+    color: #898c8e;
+    
+}
+
+.source0 li{
+    margin: 10px;
+   
+}
+
+
+
+h3{
+    position: absolute;
+    font-size: 80px;
+}
+
+
+.log-reg0 {
+    position: absolute;
+    left: 930px;
+    top: 240px;
+    width: 250px;
+    z-index: 2;
+}
+
+.log-reg0 .l{
+    border-right: 2px solid gray;
+}
+
+#login-area0, #register-area0 {
+    position: absolute;
+    top: 80px;
+    left: 15px;
+    width: 400px;
+}
+
+.z-out{
+    z-index: 1;
+}
+
+#control0{
+    z-index: 2;
+    height: 450px;
+    position: relative;
+    top: -450px;
+}
+
+label {
+    font-size: 15px;
+    
+}
+
+input {
+    height: 30px;
+    
+}
+
+.mima {
+    position: relative;
+    left: 10px;
+}
+
+#login0 {
+    position: absolute;
+    top: 110px;
+    left:175px;
+    z-index: 2;
+}
+
+.rn0{
+    position: relative;
+    left: 15px;
+}
+
+.rp0{
+    position: relative;
+    left: 25px;
+}
+
+#register0 {
+    position: absolute;
+    top: 160px;
+    left:165px;
+    z-index: 2;
+}
+
+
+
+/*
+  container2
+*/
+
+.poster{
+    position: absolute;
+    top: 100px;
+    left: 140px;
+    width: 660px;
+}
+
+.poster .item:last-child{
+    width: 660px;
+    height: 448px;
+    padding-top: 18px;
+    background-color: #212121;
+        
+}
+
+.source{
+    position: absolute;
+    top:80px;
+    left:105px;
+    color: #898c8e;
+}
+
+.source li{
+    margin: 10px;
+}
+
+h3{
+    position: absolute;
+    font-size: 80px;
+}
+
+
+.log-reg {
+    position: absolute;
+    left: 930px;
+    top: 240px;
+    width: 250px;
+}
+
+.log-reg .l{
+    border-right: 2px solid gray;
+}
+
+#login-area, #register-area {
+    position: absolute;
+    top: 80px;
+    left: 15px;
+    width: 400px;
+}
+
+.z-out{
+    z-index: 1;
+}
+
+label {
+    font-size: 15px;
+    
+}
+
+input {
+    height: 30px;
+    
+}
+
+#login {
+    position: absolute;
+    top: 110px;
+    left:190px
+}
+
+.rn input{
+    position: absolute;
+    left: 90px;
+}
+
+.rp input{
+    position: absolute;
+    left: 90px;
+}
+
+#register {
+    position: absolute;
+    top: 160px;
+    left:186px;
+}
+
+
+
+
+
+
+
